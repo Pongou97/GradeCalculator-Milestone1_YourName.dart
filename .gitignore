@@ -1,0 +1,14 @@
+# Dart/Flutter
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
